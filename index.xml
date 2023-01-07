@@ -9,10 +9,32 @@
     <description>Recent content on Mano blogas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jan 2023 04:32:52 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 16:12:06 +0200</lastBuildDate>
     
 	<atom:link href="https://vaidasradzevicius.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WLM galaktika</title>
+      <link>https://vaidasradzevicius.github.io/posts/puslapis-su-paveikslu/</link>
+      <pubDate>Sat, 07 Jan 2023 16:12:06 +0200</pubDate>
+      
+      <guid>https://vaidasradzevicius.github.io/posts/puslapis-su-paveikslu/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Aukščiau matote dalį Wolf–Lundmark–Melotte galaktikos. Nuotrauka padaryta James Webb teleskopo NIR (Near Infrared) kamera.
+Nuotrauka atvaizduota panaudojus tokį kodo bloką:
+![WLM galaktika](/img/WLM-dwarf-galaxy.png &amp;quot;Wolf–Lundmark–Melotte (WLM) galaktika&amp;quot;)
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Sveiki atvykę į mano blogo puslapį!</title>
