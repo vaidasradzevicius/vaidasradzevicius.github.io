@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mano blogas</title>
+    
+    
+    
+    <link>https://vaidasradzevicius.github.io/posts/</link>
+    <description>Recent content in Posts on Mano blogas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2023 04:32:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://vaidasradzevicius.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sveiki atvykę į mano blogo puslapį!</title>
+      <link>https://vaidasradzevicius.github.io/posts/sveiki-atvyke/</link>
+      <pubDate>Sat, 07 Jan 2023 04:32:52 +0200</pubDate>
+      
+      <guid>https://vaidasradzevicius.github.io/posts/sveiki-atvyke/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Sveiki,
+Tai yra mano blogo puslapis, sukurtas debesų kompiuterijos laboratoriniui darbui. Ačiū, kad lankotės!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
